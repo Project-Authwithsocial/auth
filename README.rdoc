@@ -1,28 +1,12 @@
-== README
+Project
+========
+Application นี้ใช้สำหรับยืนยันตัวตนก่อนเข้าใช้ internet ผ่านผู้ให้บริการสังคมออนไลน์ คือ Facebook , Twitter , Google+ โดยมีเงื่อนไขว่าผู้ขอเข้าใช้บริการ ต้องเป็นเพื่อนกับผู้ให้บริการ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Features
+========
 
-Things you may want to cover:
+Use Case
+========
+การสมัครเข้าใช้งาน
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+การใช้งาน
